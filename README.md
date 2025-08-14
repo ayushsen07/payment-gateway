@@ -42,7 +42,7 @@ npm install
 #### Backend (.env file in backend directory)
 ```env
 # Server Configuration
-PORT=5000
+PORT=9000
 
 # Database Configuration
 MONGODB_URI=mongodb://localhost:27017/payment_gateway
