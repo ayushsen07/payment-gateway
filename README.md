@@ -232,10 +232,4 @@ GET /health
 - All styles are inline for simplicity
 - Components are modular for easy customization
 - Responsive design for mobile compatibility
-
-## 📄 License
-
-This project is for educational and testing purposes. Use test credentials only.
-
-
-**Note**: This application is designed for testing payment integrations. Always use test credentials and never process real payments in this environment. 
+ 
