@@ -200,7 +200,7 @@ GET /health
 ### Common Issues
 
 1. **Backend Connection Error**
-   - Ensure backend is running on port 5000
+   - Ensure backend is running on port 9000
    - Check MongoDB connection
    - Verify environment variables
 
