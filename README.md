@@ -140,7 +140,7 @@ payment-gateway/
 
 ## 🔌 API Endpoints
 
-### Backend (Port 5000)
+### Backend (Port 9000)
 
 #### Create Payment
 ```http
